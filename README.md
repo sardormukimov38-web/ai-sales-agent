@@ -14,5 +14,5 @@ AI voice agent for automated sales calls — built with Vapi + Make.com
 - Google Sheets (lead base)
 - ElevenLabs (voice)
 
-## Demo
-[Сюда потом добавишь ссылку на видео]
+## Demo[
+https://youtu.be/ikTit56L3PM
